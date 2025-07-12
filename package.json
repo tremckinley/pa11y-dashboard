@@ -33,6 +33,7 @@
     "lodash.groupby": "~4.6.0",
     "lodash.keys": "~4.2.0",
     "moment": "~2.29.4",
+    "mongodb": "^6.17.0",
     "morgan": "~1.10.0",
     "nanoid": "~3.3.2",
     "pa11y-webservice": "^4.3.1",
